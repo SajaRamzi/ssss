@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
 
-      title: 'saja',
+      title: 'lama',
       theme: ThemeData(
         // This is the theme of your application.
         //
